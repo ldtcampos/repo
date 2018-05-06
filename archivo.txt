@@ -1,3 +1,5 @@
 Primer archivo prueba git
 
-esta linea es el segundo comió
+esta linea es el segundo commmit
+
+cambio para comparar
